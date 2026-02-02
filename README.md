@@ -53,7 +53,7 @@ The system analyzes sonar signal frequencies and predicts whether the detected o
 ## 🚀 How to Run the Project
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Sathyashri/SONAR.git
 2. Open the notebook
    jupyter notebook SONAR_ML.ipynb
 3. Run all cells
